@@ -12,6 +12,16 @@ When a client request is received, the server:
 If the requested file exists, the server reads its contents and sends it back with the correct HTTP headers. Otherwise, it responds with a **404 Not Found** message.
 
 ---
+
+```bash
+gcc main.c request.c http.c utils.c -o server -pthread
+```
+or
+```bash
+make
+./server
+```
+---
 #### Credits
 Resource Used: https://github.com/JeffreytheCoder/Simple-HTTP-Server
 
