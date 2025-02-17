@@ -13,6 +13,6 @@ If the requested file exists, the server reads its contents and sends it back wi
 
 ---
 #### Credits
-Original source: https://github.com/JeffreytheCoder/Simple-HTTP-Server
+Resource Used: https://github.com/JeffreytheCoder/Simple-HTTP-Server
 
-Special thanks: [Jeffrey Yu](https://github.com/JeffreytheCoder)
+Shoutout to [Jeffrey Yu](https://github.com/JeffreytheCoder)
